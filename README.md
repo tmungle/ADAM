@@ -1,6 +1,5 @@
 # Automated Dose Advice Method (ADAM)
-Clinical decision support system prototype for dosing 6-MP and MTX during maintenance therapy phase of acute lymphoblastic ![Uploading image.png…]()
- leukemia treatment.
+Clinical decision support system prototype for dosing 6-MP and MTX during maintenance therapy phase of acute lymphoblastic leukemia treatment.
 
 ## Summary
 
