@@ -1,5 +1,6 @@
 # Automated Dose Advice Method (ADAM)
-Clinical decision support system prototype for dosing 6-MP and MTX during maintenance therapy phase of acute lymphoblasitc leukemia treatment.
+Clinical decision support system prototype for dosing 6-MP and MTX during maintenance therapy phase of acute lymphoblastic ![Uploading image.png…]()
+ leukemia treatment.
 
 ## Summary
 
@@ -10,7 +11,7 @@ Delivering optimal MT includes prescribing maximum tolerated doses of
 6-mercaptopurine (6MP) and methotraxate (MTX) based on patient’s blood
 counts (absolute neutrophil count (ANC), platelet count (PLT) and
 hemoglobin (HB)). In view of this, the [ADAM](https://www.sciencedirect.com/science/article/pii/S246812452100053X) was developed to
-analyse and visualize the MT data (ANC/PLT/HB/6MP/MTX) for a given patient at any center[^1] and suggest doses of 6-MP and MTX. This work was part of my PhD thesis [\[2\]](#ref-mungle2020modelling). It was developed considering the ICiCLe-ALL-14 protocol [\[3\]](#ref-das2022protocol) as default wherein the dosing rule were modified acorss the year as per the clinical needs. 
+analyse and visualize the MT data (ANC/PLT/HB/6MP/MTX) for a given patient at any center[^1] and suggest doses of 6-MP and MTX. This work was part of my PhD thesis [\[2\]](#ref-mungle2020modelling). It was developed considering the ICiCLe-ALL-14 protocol [\[3\]](#ref-das2022protocol) as default wherein the dosing rule were modified as per the clinical needs. 
 
 ## References
 
@@ -50,4 +51,4 @@ vol. 23, no. 1, pp. 1–20, 2022.</span>
 </div>
 
 [^1]: The thesis work [\[2\]](#ref-mungle2020modelling) was then continued at
-    TTCRC, Tata Medical Center, Kolkata by me as postdoctoral scholar till March 2023. During this time, we partnered with Tata Consultancy Services, India at TTCRC to rebuild the ADAM. I had opportunity to work with a great team - TTCRC- Dr. Shekhar Krishnan, Ananya Mahadevan, Manash Gogoi, Dr. Vaskar Saha; TMC - Dr. Niharendu Ghara; TCS: Amit Misra, Sayam Kundra, Amit Kumar Mehta, Anju Goel, Amit Saxena.
+    TTCRC, Tata Medical Center, Kolkata by me as postdoctoral scholar till March 2023. During this time, we partnered with Tata Consultancy Services, India at TTCRC to rebuild the ADAM. I had opportunity to work with a great team - TTCRC- Dr. Shekhar Krishnan, Ananya Mahadevan, Manash Gogoi, Dr. Vaskar Saha; TMC - Dr. Niharendu Ghara; TCS: Amit Misra, Sayyam Kundra, Amit Kumar Mehta, Anju Goel, Amit Saxena.
