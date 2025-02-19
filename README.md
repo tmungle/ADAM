@@ -10,10 +10,7 @@ Delivering optimal MT includes prescribing maximum tolerated doses of
 6-mercaptopurine (6MP) and methotraxate (MTX) based on patient’s blood
 counts (absolute neutrophil count (ANC), platelet count (PLT) and
 hemoglobin (HB)). In view of this, the ADAM was developed to
-analyse and visualize the MT data (ANC/PLT/HB/6MP/MTX) for single
-patient or a given cohort at any center[^1] and suggested doses as a part of my PhD thesis [\[2\]](#ref-mungle2020modelling). It was developed
-considering the ICiCLe-ALL-14 protocol [\[3\]](#ref-das2022protocol) as
-default. 
+analyse and visualize the MT data (ANC/PLT/HB/6MP/MTX) for a given patient at any center[^1] and suggested doses. This work was part of my PhD thesis [\[2\]](#ref-mungle2020modelling). It was developed considering the ICiCLe-ALL-14 protocol [\[3\]](#ref-das2022protocol) as default. 
 
 ## References
 
@@ -52,6 +49,5 @@ vol. 23, no. 1, pp. 1–20, 2022.</span>
 
 </div>
 
-[^1]: The work was initiated as part of Tushar Mungle’s PhD work at IIT
-    Kharagpur [\[2\]](#ref-mungle2020modelling) and then continued at
-    TTCRC, Tata Medical Center, Kolkata.
+[^1]: The thesis work [\[2\]](#ref-mungle2020modelling) was continued at
+    TTCRC, Tata Medical Center, Kolkata. We partnered with Tata Consultancy Services, India at TTCRC.
