@@ -49,4 +49,4 @@ vol. 23, no. 1, pp. 1–20, 2022.</span>
 
 </div>
 
-[^1]: The thesis work [\[2\]](#ref-mungle2020modelling) was then continued and led by me as postdoctoral scholar at TTCRC, Tata Medical Center, Kolkata  till March 2023. During this time, we partnered with Tata Consultancy Services, India at TTCRC to rebuild the ADAM. I had opportunity to work with a great team - TTCRC- Dr. Shekhar Krishnan, Ananya Mahadevan, Manash Gogoi, Dr. Vaskar Saha; TMC - Dr. Niharendu Ghara; TCS: Amit Misra, Sayyam Kundra, Amit Kumar Mehta, Anju Goel, Amit Saxena.
+[^1]: The thesis work [\[2\]](#ref-mungle2020modelling) was then continued and led by me as postdoctoral scholar at TTCRC, Tata Medical Center, Kolkata  till March 2023. During this time, we partnered with Tata Consultancy Services, India at TTCRC to rebuild the ADAM. I had opportunity to work with a great team - TTCRC- Dr. Shekhar Krishnan, Ananya Mahadevan, Manash Gogoi, Dr. Vaskar Saha; TMC - Dr. Niharendu Ghara; TCS: Amit Misra, Sayyam Kundra, Amit Kumar Mehta, Anju Goel.
